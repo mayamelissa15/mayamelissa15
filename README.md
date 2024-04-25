@@ -7,3 +7,5 @@
 mayamelissa15/mayamelissa15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+My skills 
+HTML5 CSS3 C Java Python Node.js Express.js MongoDB React mysql JavaScript
